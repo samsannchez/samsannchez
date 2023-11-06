@@ -26,11 +26,16 @@ My name is Sam. I am currently pursuing my master's degree in Computer Science a
 </div>
 
 
-## 💻 Software
+
+
+## 💻 Software:
 <div>
 <img align="left" alt="Vscode" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
 <img align="left" alt="Git" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </div>
+
+
+
 ## Operating Systems 
 
 
