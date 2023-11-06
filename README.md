@@ -15,6 +15,7 @@ My name is Sam. I am currently pursuing my master's degree in Computer Science a
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsannchez&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Gift's language" width="400px"/>
 </div>
 
+
 ## 👩🏼‍💻 Languages and Frameworks:
 <div>
 <img align="left" alt="Cplusplus" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -24,10 +25,12 @@ My name is Sam. I am currently pursuing my master's degree in Computer Science a
 <img align="left" alt="Java" width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 </div>
 
+
 ## 💻 Software
+<div>
 <img align="left" alt="Vscode" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
 <img align="left" alt="Git" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-
+</div>
 ## Operating Systems 
 
 
