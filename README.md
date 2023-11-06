@@ -23,9 +23,11 @@ My name is Sam. I am currently pursuing my master's degree in Computer Science a
 <img align="left" alt="Python" width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 </div>
+
 ## 💻 Software
 <img align="left" alt="Vscode" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
 <img align="left" alt="Git" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+
 ## Operating Systems 
 
 
