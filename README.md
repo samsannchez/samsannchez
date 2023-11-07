@@ -1,5 +1,7 @@
 ### Hello!!
-My name is Sam. I am currently pursuing my master's degree in Computer Science at the University of Central Florida, set to graduate in May 2024. I am particularly interested in Computer Graphics for animation. I am proficient in C/C++, Python, and Java. Additionally, I have some graphics rendering experience using OpenGL, Houdini, Blender, Unity and Nuke. I love coding and I'm always looking to learn something new! Here's a little more about me:
+My name is Sam. I am currently pursuing my master's degree in Computer Science at the University of Central Florida, set to graduate in May 2024. I am particularly interested in Computer Graphics for animation. I am proficient in C/C++, Python, and Java. Additionally, I have some graphics rendering experience using OpenGL, Houdini, Blender, Unity and Nuke. I love coding and I'm always looking to learn something new! 
+
+Here's a little more about me:
 
 - 😄 Pronouns: she/her
 - 🧠 President and founder of Girls Who Code at UCF.
