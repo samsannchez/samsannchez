@@ -48,7 +48,6 @@ Here's a little more about me:
 
 ## 🎯 GitHub Profile Stats
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samsannchez&theme=dracula" alt="Gift's LangStat" width="400px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsannchez&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Gift's language" width="400px"/>
 </div>
 
