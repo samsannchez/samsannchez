@@ -11,7 +11,7 @@ Here's a little more about me:
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/samanthasanchezjuarez/)
 
 
-### 👩🏼‍💻 Languages and Frameworks:
+## 👩🏼‍💻 Languages and Frameworks:
 <div>
 <img align="left" alt="Cplusplus" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
@@ -24,7 +24,7 @@ Here's a little more about me:
 <br>
 <br>
 
-### 💻 Software:
+## 💻 Software Programs:
 <div>
 <img align="left" alt="Unity" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="Blender" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
@@ -36,7 +36,7 @@ Here's a little more about me:
 <br>
 <br>
 
-### Operating Systems 
+## Operating Systems 
 <div>
 <img align="left" alt="Linux" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Windows8" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
@@ -46,7 +46,7 @@ Here's a little more about me:
 <br>
 <br>
 
-### 🎯 GitHub Profile Stats
+## 🎯 GitHub Profile Stats
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsannchez&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Gift's language" width="400px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samsannchez&show_icons=true&theme=dracula" alt="Gift's Stats" width="400px"/>
