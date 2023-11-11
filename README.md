@@ -49,7 +49,7 @@ Here's a little more about me:
 ## 🎯 GitHub Profile Stats
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsannchez&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Gift's language" width="400px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samsannchez&show_icons=true&theme=dracula" alt="Gift's Stats" width="600px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samsannchez&show_icons=true&theme=dracula" alt="Gift's Stats" width="400px"/>
   
 </div>
 
