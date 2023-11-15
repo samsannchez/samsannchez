@@ -3,7 +3,7 @@ My name is Sam. I am currently pursuing my master's degree in Computer Science a
 
 Here's a little more about me:
 
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her.
 - 🧠 President and founder of Girls Who Code at UCF.
 - 👩🏼‍💻 I developed a passion for computer graphics by coding shaders on Unity.
 - 💻 I have hosted multiple programming workshops for college students.
